@@ -1,8 +1,10 @@
 h1{
   color: blue;
+  text-align: center;
 }
 h2{
   color: skyblue;
+  margin-top: 10px;
 }
 body{
   background-color: grey;
@@ -11,4 +13,5 @@ p{
   color: white;
   font-family: cursive;
   font-size: 20px;
+
 }
